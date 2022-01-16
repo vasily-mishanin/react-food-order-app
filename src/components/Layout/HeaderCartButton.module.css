@@ -57,3 +57,9 @@
     transform: scale(1);
   }
 }
+
+@media (max-width: 475px) {
+  .button-text {
+    display: none;
+  }
+}

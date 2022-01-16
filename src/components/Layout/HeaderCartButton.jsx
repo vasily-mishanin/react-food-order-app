@@ -34,7 +34,7 @@ function HeaderCartButton({ text, onCartShow }) {
       <span className={styles.icon}>
         <CartIcon />
       </span>
-      <span>{text}</span>
+      <span className={styles["button-text"]}>{text}</span>
       <span className={styles.badge}>{numberOfItems}</span>
     </button>
   );

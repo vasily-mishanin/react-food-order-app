@@ -11,8 +11,8 @@
 .modal {
   position: fixed;
   top: 20vh;
-  left: 5%;
   width: 90%;
+  left: 1%;
   background-color: white;
   padding: 1rem;
   border-radius: 14px;
@@ -27,6 +27,13 @@
     left: calc(50% - 20rem);
   }
 }
+
+/* @media (max-width: 768px) {
+  .modal {
+    width: 90%;
+    left: 0;
+  }
+} */
 
 @keyframes slide-down {
   from {

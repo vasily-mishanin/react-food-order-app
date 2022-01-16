@@ -1,3 +1,7 @@
+# this is dummy app with basic react features
+
+[https://vasily-mishanin.github.io/react-food-order-app/]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

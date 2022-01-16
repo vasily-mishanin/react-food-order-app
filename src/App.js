@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import styles from "./App.module.css";
 import Header from "./components/Layout/Header";
 import Meals from "./components/Meals/Meals";
 import Cart from "./components/Cart/Cart";
@@ -16,7 +17,7 @@ function App() {
   };
 
   return (
-    <CartProvider>
+    <CartProvider className={styles.app}>
       {cartIsShown && <Cart onCartHide={hideCartHandler} />}
       <Header onCartShow={showCartHandler} />
       <main>
