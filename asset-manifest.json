@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-food-order-app/static/css/main.985f951d.css",
+    "main.css": "/react-food-order-app/static/css/main.2ca41059.css",
     "main.js": "/react-food-order-app/static/js/main.9dcb268a.js",
     "static/js/787.bd4e1afd.chunk.js": "/react-food-order-app/static/js/787.bd4e1afd.chunk.js",
     "static/media/meals.jpeg": "/react-food-order-app/static/media/meals.2971f633fc1382581cbf.jpeg",
     "index.html": "/react-food-order-app/index.html",
-    "main.985f951d.css.map": "/react-food-order-app/static/css/main.985f951d.css.map",
+    "main.2ca41059.css.map": "/react-food-order-app/static/css/main.2ca41059.css.map",
     "main.9dcb268a.js.map": "/react-food-order-app/static/js/main.9dcb268a.js.map",
     "787.bd4e1afd.chunk.js.map": "/react-food-order-app/static/js/787.bd4e1afd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.985f951d.css",
+    "static/css/main.2ca41059.css",
     "static/js/main.9dcb268a.js"
   ]
 }
